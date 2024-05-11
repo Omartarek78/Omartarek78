@@ -20,7 +20,7 @@
 
 ###
 
-<p align="center">👋 Hello! I'm Omar Tarek, an undergraduate engineering student at Cairo University</p>
+<p align="center">👋 Hello! I'm Omar Tarek, an undergraduate Engineering student at Cairo University</p>
 
 ###
 
